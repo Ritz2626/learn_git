@@ -5,6 +5,6 @@ class Multiplication
     {
         int a=12;
         int b=3;
-        System.out.println(a*b);
+        System.out.println("The result is-"+(a*b));
     }
 }
